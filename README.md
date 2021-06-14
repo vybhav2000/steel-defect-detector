@@ -1,2 +1,4 @@
 # steel-defect-detector
-[![Watch the video](https://img.youtu.be/vi/7_8XvV5yO68/maxresdefault.jpg)](https://youtu.be/7_8XvV5yO68)
+https://user-images.githubusercontent.com/55657956/121918988-311f1680-cd54-11eb-85eb-6ccc98fd02dd.mp4
+
+
